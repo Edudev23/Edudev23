@@ -1,7 +1,7 @@
-## Bem-vindo(a) ao perfil do GassaLOL 😁
+## Bem-vindo(a) ao perfil do Eduardo 😁
 
  <div>
-   <a href="https://github.com/GassaLOL">
+   <a href="https://github.com/Edudev23">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GassaLOL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GassaLOL&layout=compact&langs_count=6&theme=tokyonight"/>
 
